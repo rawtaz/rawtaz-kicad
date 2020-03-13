@@ -4,6 +4,7 @@ Introduction
 This is a small KiCad library containing the following symbols:
 
 - [Adafruit ItsyBitsy 32u4 5V](https://learn.adafruit.com/introducting-itsy-bitsy-32u4/)
+- [Adafruit ItsyBitsy 32u4 3V](https://learn.adafruit.com/introducting-itsy-bitsy-32u4/)
 
 Usage
 -----

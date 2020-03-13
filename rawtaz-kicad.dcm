@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP Adafruit_ItsyBitsy_32u4_3V
+K Adafruit ItsyBitsy 3V Arduino 32u4
+F https://learn.adafruit.com/introducting-itsy-bitsy-32u4/
+$ENDCMP
+#
 $CMP Adafruit_ItsyBitsy_32u4_5V
 K Adafruit ItsyBitsy 5V Arduino 32u4
 F https://learn.adafruit.com/introducting-itsy-bitsy-32u4/
